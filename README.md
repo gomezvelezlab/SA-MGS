@@ -6,4 +6,4 @@ The Matlab functions included in this repository are:
 - SS_DomFreq.m: Selection of Dominant Frequencies to be used on SS_Top.m
 - SS_Top.m: Estimation of the Fourier surface to be used on SS_Vel.m
 - SS_Vel.m: Exact Solution to groundwater flow in 3D based on dominant frequencies
-- SS_Example.m: Examples to execute SS_DomFreq, SS_Top ans SS_Vel codes 
+- SS_Example.m: Examples to execute SS_DomFreq, SS_Top and SS_Vel codes 
